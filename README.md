@@ -2,7 +2,10 @@
 
 This project was made by using Spotify [implicit grant flow](https://developer.spotify.com/documentation/general/guides/authorization/implicit-grant/) to make requests it can be accessed [here](http://jamming-vasu.surge.sh/) bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-screenshots - ![Screenshot (1518)](https://user-images.githubusercontent.com/59095288/222676809-28d7049d-f54e-4208-a715-24cd961f51e1.png)
+screenshots - 
+![Screenshot (1516)](https://user-images.githubusercontent.com/59095288/222677104-101e4e91-3a2c-4d50-9c41-c38798ffc8b4.png)
+![Screenshot (1517)](https://user-images.githubusercontent.com/59095288/222677129-16f69308-9a05-4e63-8685-749b894d7e87.png)
+![Screenshot (1518)](https://user-images.githubusercontent.com/59095288/222676809-28d7049d-f54e-4208-a715-24cd961f51e1.png)
 
 
 ## Available Scripts
