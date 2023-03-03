@@ -15,7 +15,7 @@ screenshots -
 
 # Technology Used
 * [Reactjs](https://reactjs.org/)
-* [Spotify API- Implicit Grant]([https://fontawesome.com/](https://developer.spotify.com/documentation/general/guides/authorization/implicit-grant/)
+* [Spotify API- Implicit Grant](https://developer.spotify.com/documentation/general/guides/authorization/implicit-grant/)
 
 
 
