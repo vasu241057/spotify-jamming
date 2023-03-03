@@ -1,6 +1,6 @@
 # Spotify Jamming
 
-This project was made by using bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made by using Spotify implicit grant flow to make requests it can be accessed [here](http://jamming-vasu.surge.sh/) bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
